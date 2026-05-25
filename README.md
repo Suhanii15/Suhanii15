@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhani</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | DSA Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suhanii15&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -67,13 +64,16 @@ A MERN Stack application that makes your trip planning easier, guves ready itine
 
 ### 📌CoCode
 Built a real-time collaborative code editor using WebSockets, enabling multiple users(up to 4) to code simultaneously with sub-second synchronization, improving team collaboration efficiency.
+
+
 **Tech Stack:** React, Node.js, Express, Socket.IO, MongoDB, Tailwind
 
 ---
 
 ### 📌 Lecturely
-Developed a full-stack platform that converts academic lectures into structured notes, Reduced manual note-taking
-effort by 60
+Developed a full-stack platform that converts academic lectures into structured notes, Reduced manual note-taking effort.
+
+
 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind, Assembly AI
 
 ---
