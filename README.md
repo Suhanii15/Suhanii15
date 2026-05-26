@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhani</h1>
+<h1 align="center">Hi, I'm Suhani</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | DSA Learner</h3>
 
 
@@ -58,7 +58,7 @@
 ### 📌 Smart Travel
 A MERN Stack application that makes your trip planning easier, guves ready itinerary(including places to visit, to do activities etc.) and a collaboartive space to plan your trips and track your budgets.
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind Css, 
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind Css, Google-Gemini API,Google OAuth 2.0
 
 ---
 
