@@ -8,7 +8,7 @@
 
 🎓 Computer Science Student
 
-💻 Passionate about Full Stack Development
+💻 Passionate about Full Stack Development and Machine Learning
 
 🌱 Currently learning Backend Development, System Design & Advanced DSA
 
