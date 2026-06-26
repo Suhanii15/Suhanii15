@@ -105,7 +105,7 @@ Developed a full-stack platform that converts academic lectures into structured 
 
 ---
 
-## 🏆 LeetCode Journey
+## 🏆 DSA Journey
 
 - Solved 300+ DSA problems
 - 1 ⭐ @CodeChef
