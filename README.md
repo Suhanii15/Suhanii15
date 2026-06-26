@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Suhani</h1>
-<h3 align="center">Full Stack Developer |  DSA Learner</h3>
+<h3 align="center">Full Stack Developer | ML Enthusiast | DSA Learner</h3>
 
 
 ---
@@ -55,18 +55,29 @@
 
 ## 🚀 Featured Projects
 
+
+
+
+### 📌Code Detector
+
+Code Detector is a full-stack developer tool that analyzes public GitHub repositories and predicts which source files are most likely to contain defects.
+
+Instead of relying only on static code analysis, it combines repository history, developer activity, and software engineering metrics with a Machine Learning model to estimate bug risk for every file.
+
+**Tech Stack:** 
+- React Frontend
+- Express.js Backend
+- Flask ML Service
+- MongoDB Cache
+- GitHub REST API
+
+-----
+
 ### 📌 Smart Travel
 A MERN Stack application that makes your trip planning easier, guves ready itinerary(including places to visit, to do activities etc.) and a collaboartive space to plan your trips and track your budgets.
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind Css, Google-Gemini API,Google OAuth 2.0
 
----
-
-### 📌CoCode
-Built a real-time collaborative code editor using WebSockets, enabling multiple users(up to 4) to code simultaneously with sub-second synchronization, improving team collaboration efficiency.
-
-
-**Tech Stack:** React, Node.js, Express, Socket.IO, MongoDB, Tailwind
 
 ---
 
