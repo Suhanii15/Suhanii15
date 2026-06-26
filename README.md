@@ -107,7 +107,8 @@ Developed a full-stack platform that converts academic lectures into structured 
 
 ## 🏆 LeetCode Journey
 
-- Solved 200+ DSA problems 
+- Solved 300+ DSA problems
+- 1 ⭐ @CodeChef
 - Participating in contests
 - Improving problem-solving skills
 
