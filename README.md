@@ -24,9 +24,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/u/Suhanii_15/" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+
 
 <a href="https://profile-five-silk-33.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
