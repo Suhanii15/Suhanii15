@@ -28,12 +28,14 @@
 <a href="https://suhani-kabra.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
 </a>
+
+<a href="https://leetcode.com/u/suhanii_15/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
-<a href="https://leetcode.com/u/suhanii_15/" target="blank">
-<img src="https://shields.io"/>
-</a>
-</p>
+
 ---
 
 ## 🛠️ Tech Stack
