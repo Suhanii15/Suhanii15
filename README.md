@@ -24,12 +24,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://suhani-kabra.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio"/>
-</a>
-
-
-
+<h3>
+  <a href="https://suhani-kabra.vercel.app" target="_blank">
+    🌐 Portfolio
+  </a>
+</h3>
 
 
 <a href="https://leetcode.com/u/suhanii_15/" target="_blank">
