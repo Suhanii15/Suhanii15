@@ -24,12 +24,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<h3>
-  <a href="https://suhani-kabra.vercel.app" target="_blank">
-    🌐 Portfolio
+ <a href="https://suhani-kabra.vercel.app/">
+    <img src="https://shields.io/badge/vercel-black?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
-</h3>
-
 
 <a href="https://leetcode.com/u/suhanii_15/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
