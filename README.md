@@ -25,10 +25,10 @@
 </a>
 
 
-
 <a href="https://suhani-kabra.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio--000000?style=for-the-badge" alt="Portfolio"/>
 </a>
+
 
 <a href="https://leetcode.com/u/suhanii_15/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
