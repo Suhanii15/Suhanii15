@@ -27,7 +27,7 @@
 
 
 <a href="https://suhani-kabra.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <a href="https://leetcode.com/u/suhanii_15/" target="_blank">
