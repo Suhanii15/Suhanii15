@@ -105,22 +105,6 @@
 [■■■■□□□□□□□] Scalable Web Applications
 ```
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhanii15&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhanii15&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 
 <h3 align="center">⭐ Thanks for visiting my profile! Feel free to connect and collaborate ⭐</h3>
 
