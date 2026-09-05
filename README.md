@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Suhani 👋</h1>
-<h3 align="center">Full Stack Developer | ML Enthusiast | DSA Problem Solver</h3>
+<h3 align="center">Software Developer | ML Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+Scalable+Products+%F0%9F%9A%80;Machine+Learning+%F0%9F%A4%96;Data+Stuctures+and+Algorithms%F0%9F%92%BB;Learning+System+Design+%E2%9A%A1" alt="Typing SVG" />
