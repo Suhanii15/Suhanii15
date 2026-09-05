@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suhanii15&label=Profile%20Views&color=2F80ED&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Suhanii15?label=Followers&style=flat&color=2F80ED" alt="followers" />
 </p>
 
 ---
@@ -25,7 +24,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhanii15&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suhanii15&show_icons=true&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Stats" width="48%" />
 </p>
 
 ---
