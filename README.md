@@ -20,15 +20,6 @@
 
 ---
 
-## 📈 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhanii15&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Streak" width="48%" />
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Suhanii15&theme=tokyo-night&hide_border=true" alt="Suhani's activity graph" width="100%" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -101,7 +92,16 @@
 </p>
 
 
+---
 
+## 📈 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhanii15&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Streak" width="48%" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Suhanii15&theme=tokyo-night&hide_border=true" alt="Suhani's activity graph" width="100%" />
+</p>
+
+---
 ## 📚 Currently Learning
 
 ```text
