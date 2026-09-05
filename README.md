@@ -26,14 +26,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhanii15&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhanii15&show_icons=true&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Suhanii15&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Suhani's GitHub Stats" width="48%" />
 </p>
 
-### 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suhanii15/Suhanii15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
